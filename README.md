@@ -1,5 +1,5 @@
-# Ejercicio Guia de Sistemas Operativos  
+# Mi ejercicio guia
 ##  Tags:   
-    VersionInicial
-   Mi ejercicio guía
-Versión conexión desconexion
+  
+Versión conexión desconexión
+Versión con concurrencia
