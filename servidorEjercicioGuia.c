@@ -6,7 +6,7 @@
 #include <netinet/in.h>
 #include <stdio.h>
 #include <pthread.h>
-
+/////
 int contador;
 
 //Estructura necesaria para acceso excluyente
